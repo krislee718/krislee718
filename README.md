@@ -1,13 +1,13 @@
-<h3 align="left">Hi there 👋, this page is to introduce Kristine Lee</h3>
+<h3 align="left">Hello there 👋, this page is to introduce Kristine Lee</h3>
 <h3 align="left">I am a data scientist with domain knowledge in victim narrative data, community data, transportation data, research methodology, and IT project methodology.</h3>
 
-- 🔭 I’m currently working on **Pix2Pix**
+- 🔭 I’m currently working on **GANs-Pix2Pix**
 
 - 🌱 I’m currently learning **AI algorithms**
 
-- 💬 Ask me about **social research project, IT project, data analysis project, data science project management**
+- 💬 Let's talk about **project methodologies: social research projects, IT projects, data analysis projects, data science projects**
 
-- 📫 How to reach me **kristinelee718@gmail.com**
+- 📫 Contact me via **kristinelee718@gmail.com**
 
 <p align="left">
 </p>
