@@ -1,4 +1,4 @@
-<h3 align="left">Hi there,👋 This page is to introduce Kristine Lee</h3>
+<h3 align="left">Hi there 👋, this page is to introduce Kristine Lee</h3>
 <h3 align="left">I am a data scientist with domain knowledge in victim narrative data, community data, transportation data, research methodology, and IT project methodology.</h3>
 
 - 🔭 I’m currently working on **Pix2Pix**
