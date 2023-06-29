@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI algorithms**
 
-- 💬 Let's talk about **project methodologies: research projects, IT projects, data analysis projects, data science projects**
+- 💬 I'd love to talk about project methodologies. Let's talk about: **research projects, IT projects, data analysis projects, data science projects**
 
 - 📫 Contact me via **kristinelee718@gmail.com**
 
