@@ -1,12 +1,12 @@
 <h3 align="left">Hello there 👋 I'm Kristine.</h3>
 <h3 align="left">I am a data scientist with domain knowledge in victim narrative data, community data, transportation data, research methodology, and IT project methodology.</h3>
 
-- 🔭 Portfolio working on [Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-- 🔭 Portfolio working on [Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-
 - 🌱 I’m currently learning **AI algorithms**
 
-- 💬 I'd love to talk about project methodologies. Let's talk about: **research projects, IT projects, data analysis projects, data science projects**
+- 🔭 Project working on [Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+- 🔭 Project working on [Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+
+- 💬 Let's talk about data and project methodologies: **research projects, IT projects, data analysis projects, data science projects**
 
 - 📫 Contact me via **kristinelee718@gmail.com**
 
