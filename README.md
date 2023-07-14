@@ -1,5 +1,5 @@
 <h3 align="left">Hello there 👋 I'm Kristine.</h3>
-<h3 align="left">I am a data scientist with domain knowledge in victim narrative data, community data, transportation data, research methodology, and IT project methodology.</h3>
+<h3 align="left">I am a Crime Analyst at NYPD with a background in social research and web application development.</h3>
 
 - 🌱 I’m currently learning **AI algorithms**
 
