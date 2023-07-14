@@ -6,7 +6,7 @@
 - 🔭 Project working on [Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
 - 🔭 Project working on [Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
 
-- 💬 Let's talk about data and project methodologies: **research projects, IT projects, data analysis projects, data science projects**
+- 💬 Let's talk about data and research methodologies: **research projects, IT projects, data analysis projects, data science projects**
 
 - 📫 Contact me via **kristinelee718@gmail.com**
 
