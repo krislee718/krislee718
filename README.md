@@ -1,14 +1,30 @@
 <h3 align="left">Hello there 👋 I'm Kristine.</h3>
 <h3 align="left">I am a Crime Analyst at NYPD with a background in social research and web application development.</h3>
 
-- 🌱 I’m currently learning **AI algorithms**
-
-- 🔭 Project working on [Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-- 🔭 Project working on [Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-
 - 💬 Let's talk about data and research methodologies: **research projects, IT projects, data analysis projects, data science projects**
-
 - 📫 Contact me via **kristinelee718@gmail.com**
+
+- 🌱 I’m currently learning **AI algorithms**
+    - 🔭 Project in progress [Generative Adversarial Networks | Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Deep Learning | Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Linear Regression | Predict Insurance Fee](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Logistic Regression | Predict Titanic Survivors](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [KNN | Predict Wine Quality](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Naive Bayes | Spam Classifier](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Decision Tree | Predict Your Salary](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [Random Forest | Predict Used Car Price](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [XGBoost | Predict Coupling](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [LightGBM](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [K-Means Clustering](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+    - 🔭 Project in progress [PCA](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
+
+
+
+
+
+
+
+
 
 <p align="left">
 </p>
