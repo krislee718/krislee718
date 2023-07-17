@@ -2,7 +2,7 @@
 <h3 align="left">I am a Crime Analyst at NYPD with a background in social research and web application development.</h3>
 
 - 💬 Let's talk about data in different projects: **research projects, IT projects, data analysis projects, data science projects**
-- 📫 Contact me via **kristinelee718@gmail.com**
+    - 📫 Contact me via **kristinelee718@gmail.com**
 
 - 🌱 I’m currently learning **AI algorithms**
     - 🔭 Project in progress [Generative Adversarial Networks | Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
