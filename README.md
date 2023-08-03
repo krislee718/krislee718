@@ -5,10 +5,8 @@
     - 📫 Contact me via **kristinelee718@gmail.com**
 
 - 🌱 I’m currently learning **AI algorithms**
-    - 🔭 Project in progress [Generative Adversarial Networks | Pix2Pix](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-    - 🔭 Project in progress [Tensorflow | Credit Card Fraud Detetion](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-    - 🔭 Project in progress [Deep Learning  | NYC Open Data - NYC Collisions](https://github.com/krislee718/krislee718.github.io/blob/master/Pix2Pix.ipynb)
-
+    - 🔭 Project Topic [Linear Regression  | Predicting Insurance Charges](https://github.com/krislee718/krislee718/blob/main/Linear%20Regression.ipynb)
+    - 🔭 Project in progress [Logistic Regression  | Predicting Insurance Charges](https://github.com/krislee718/krislee718/blob/main/Linear%20Regression.ipynb)
 
 
 
