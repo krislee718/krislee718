@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI algorithms**
     - 🔭 Personal Project [Linear Regression  | Predicting Insurance Charges](https://github.com/krislee718/notebooks/blob/main/Linear%20Regression.ipynb)
-    - 🔭 Project in progress [Logistic Regression  | Predicting Titanic Survivors](https://github.com/krislee718/krislee718/blob/main/Linear%20Regression.ipynb)
+    - 🔭 Personal Project [Logistic Regression  | Predicting Titanic Survivors](https://github.com/krislee718/notebooks/blob/main/Logistic%20Regression.ipynb)
 
 
 
