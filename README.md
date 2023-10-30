@@ -1,5 +1,5 @@
 <h3 align="left">Hello there 👋 I'm Kristine.</h3>
-<h3 align="left">I am a Crime Analyst at NYPD with a background in social research and web application development.</h3>
+<h3 align="left">I am a UI/UX Developer at NYC Law Department with a background in social research and web application development.</h3>
 
 - 💬 Let's talk about data in different projects: **research projects, IT projects, data analysis projects, data science projects**
     - 📫 Contact me via **kristinelee718@gmail.com**
